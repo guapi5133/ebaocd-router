@@ -1,0 +1,20 @@
+{
+	"name" : "guapi5133/ebaocd-router",
+	"description" : "Url Router",
+	"type" : "library",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "XiuLuo",
+			"email" : "5192412@qq.com"
+		}
+	],
+	"minimum-stability" : "dev",
+	"require" : {
+		"php" : ">=7.1.0"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"eBaocd\\Router\\" : "src/"
+		}
+	}
+}
