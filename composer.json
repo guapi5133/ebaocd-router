@@ -1,5 +1,5 @@
 {
-	"name" : "guapi5133/ebaocd-router",
+	"name" : "self-frame/router",
 	"description" : "Url Router",
 	"type" : "library",
 	"license" : "MIT",
